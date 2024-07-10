@@ -24,3 +24,6 @@ https://ui.shadcn.com/
 
 fake email 
 https://ethereal.email/create
+
+awesome
+https://github.com/LeCoupa/awesome-cheatsheets
