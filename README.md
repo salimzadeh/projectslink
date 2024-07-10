@@ -20,3 +20,7 @@ Similarity API
 https://github.com/joschan21/similarity-api
 
 https://ui.shadcn.com/
+
+
+fake email 
+https://ethereal.email/create
